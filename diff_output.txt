@@ -1,0 +1,11 @@
+diff --git a/intro.txt b/intro.txt
+index b93617d..660a631 100644
+--- a/intro.txt
++++ b/intro.txt
+@@ -10,3 +10,6 @@ Kỹ năng:
+ - Lập trình cơ bản với Python và JavaScript.
+ - Sử dụng Git để quản lý mã nguồn.
+ - Kỹ năng làm việc nhóm và giao tiếp.
++
++Kế hoạch học tập
++Trong học kỳ này, tôi đặt mục tiêu nâng cao kỹ năng lập trình thông qua việc học thêm các ngôn ngữ như Java và C++. Tôi sẽ dành 2-3 giờ mỗi ngày để thực hành lập trình và làm bài tập. Ngoài ra, tôi muốn hoàn thành ít nhất một dự án cá nhân để áp dụng kiến thức thực tế. Tôi cũng dự định tham gia các khóa học trực tuyến về AI và Machine Learning. Cuối cùng, tôi sẽ cải thiện kỹ năng Git để quản lý dự án hiệu quả hơn.
