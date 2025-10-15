@@ -1,0 +1,6 @@
+# Mô tả tính năng mới
+Tính năng mới: Hệ thống quản lý công việc cá nhân.
+- Cho phép người dùng tạo, chỉnh sửa, và xóa các công việc.
+- Hiển thị danh sách công việc theo trạng thái (chưa hoàn thành/hoàn thành).
+- Tích hợp thông báo nhắc nhở qua email hoặc ứng dụng.
+- Giao diện thân thiện, hỗ trợ trên cả web và mobile.
