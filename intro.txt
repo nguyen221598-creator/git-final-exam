@@ -1,0 +1,12 @@
+Giới thiệu cá nhân
+Tôi tên là Diệp thị hạnh nguyên, sinh viên năm 4 tại Trường đại học Nam Cần Thơ. Tôi đến từ: Sóc Trăng, và hiện đang sinh sống tại: Cần Thơi. Tôi đam mê công nghệ và luôn muốn học hỏi những điều mới. Mục tiêu của tôi là trở thành một lập trình viên chuyên nghiệp. Tôi thích làm việc nhóm và chia sẻ kiến thức với mọi người.
+
+Sở thích:
+- Lập trình và khám phá các công nghệ mới.
+- nghe nhạc vào cuối tuần.
+- Đọc sách về phát triển bản thân.
+
+Kỹ năng:
+- Lập trình cơ bản với Python và JavaScript.
+- Sử dụng Git để quản lý mã nguồn.
+- Kỹ năng làm việc nhóm và giao tiếp.
