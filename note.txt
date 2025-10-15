@@ -1,0 +1,4 @@
+# Cảm nhận về Git
+- Git là một công cụ mạnh mẽ để quản lý mã nguồn và theo dõi lịch sử thay đổi.
+- Giao diện dòng lệnh của Git giúp kiểm soát chi tiết các thao tác.
+- Học Git ban đầu có thể khó, nhưng rất hữu ích khi làm việc nhóm.
